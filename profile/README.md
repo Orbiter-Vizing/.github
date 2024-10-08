@@ -2,7 +2,7 @@
 
 Vizing - All chains, One hub
 
-🛠️ [How to build](https://docs.vizing.com)
+🛠️ [Let’s build together](https://docs.vizing.com)
 
 🎉 [Join the community](https://discord.com/invite/FbztTBvnBT)
 
