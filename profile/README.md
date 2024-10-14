@@ -8,7 +8,7 @@ Vizing is a cutting-edge omni interoperability environment built on advanced zk 
 
 Meanwhile, Vizing is a permissionless decentralized network that provides all DApps with the ability to interact with multiple chains by integrating with Vizing.
 
-🛠️ [Let’s build](https://docs.vizing.com)
+🛠️ [Let’s build from here](https://docs.vizing.com)
 
 🎉 [Join the community](https://discord.com/invite/FbztTBvnBT)
 
